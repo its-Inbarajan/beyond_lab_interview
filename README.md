@@ -15,7 +15,7 @@ This is a React + Vite + TypeScript frontend project implementing a multi-step f
 1. **Clone the repository from GitHub:**
    ```bash
    git clone https://github.com/Itsinbarajan/beyond_labs_frontend_interview.git
-   cd beyond_labs_frontend_interview
+   cd beyond_labs_interview
    ```
 
 2. **Navigate to the project directory:**
